@@ -64,6 +64,4 @@ public class Pager<T> {
 	}
 	public Pager() {
 	}
-	
-	
 }
